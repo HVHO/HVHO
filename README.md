@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Donghyun Kim,
-### a Back-end Developer at <a href="https://www.smartthings.com"> Samsung SmartThings </a> 
+### a Back-end Developer at <a href="https://www.tossbank.com/"> Toss Bank </a> 
 
 <br>
 <br>
