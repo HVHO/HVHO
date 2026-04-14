@@ -30,20 +30,6 @@
 <a href="mailto:hvho1119@gmail.com"><img src="https://img.shields.io/badge/hvho1119-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 
-<br>
-<br>
-<br>
-
-![Top-Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=HVHO&layout=compact)
-
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHVHO&count_bg=%2392F35B&title_bg=%23555555&icon=smartthings.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Solved.ac
-profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=hvho1119)](https://solved.ac/hvho1119)
-
-
-
 
 
 <!--
